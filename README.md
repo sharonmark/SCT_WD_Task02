@@ -90,6 +90,6 @@ This project is open-source and available under the MIT License.
 
 ## 🧑‍💻 Author
 
-Sharon Mark
+Sharon Kumar
 
 Created as part of the SkillCraft Technology – Web Development Track
